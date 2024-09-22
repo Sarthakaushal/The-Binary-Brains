@@ -34,64 +34,65 @@ curl "https://us-south.ml.cloud.ibm.com/ml/v1/text/generation?version=2023-05-29
 	}
 }
 
-## Expected Output
+## Expected output:
+
 {
-   "evaluation": {
-    "B004": {
-      "pillar_scores": {
-        "crop_fulfillment": 80,
-        "shipping_availability": 100,
-        "proximity": 70,
-        "closed_bids": 60,
-         "reviews": 80
-      },
-      "total_score": 62.8,
-      "improvement_suggestions": {
-        "crop_fulfillment": "Increase the quantity of potatoes offered to match the distributor's requirement of 1000 kg to improve fulfillment score."
-      },
-      "potential_improvement": 70.8
-    },
-    "B005": {
-      "pillar_scores": {
-        "crop_fulfillment": 80,
-        "shipping_availability": 0,
-        "proximity": 50,
-         "closed_bids": 80,
-         "reviews": 70
-      },
-      "total_score": 43.2,
-      "improvement_suggestions": {
-        "shipping_availability": "Consider providing shipping services to improve customer experience and score."
-      },
-      "potential_improvement": 63.2
-    },
-    "B006": {
-      "pillar_scores": {
-        "crop_fulfillment": 80,
-        "shipping_availability": 100,
-         "proximity": 70,
-         "closed_bids": 50,
-         "reviews": 90
-      },
-      "total_score": 64.8,
-      "improvement_suggestions": {
-        "closed_bids": "Participate in more bids to build experience and enhance your reliability score."
-      },
-      "potential_improvement": 71.8
-    }
-  },
-"insights": [
-    {
-      "bidder_id": "B004",
-      "suggestion": "To improve your chances of securing the contract, consider increasing the quantity of potatoes offered to match the distributor's requirement of 1000 kg. This will fulfill the requirement fully and enhance your bid's competitiveness."
-    },
-    {
-      "bidder_id": "B005",
-      "suggestion": "Adding shipping services could significantly enhance your bid's attractiveness. Offering shipping can resolve logistical issues and improve your customer satisfaction, making your bid more competitive in future contracts."
-    },
-    {
-      "bidder_id": "B006",
-      "suggestion": "Participating in more bids can improve your reliability score and attract more distributors. With your high ratings and fulfillment of all requirements, increasing your experience will strengthen your bid's position."
-    }
-  ]
-}
+	"evaluation": {
+	 "B004": {
+	   "pillar_scores": {
+		 "crop_fulfillment": 80,
+		 "shipping_availability": 100,
+		 "proximity": 70,
+		 "closed_bids": 60,
+		  "reviews": 80
+	   },
+	   "total_score": 62.8,
+	   "improvement_suggestions": {
+		 "crop_fulfillment": "Increase the quantity of potatoes offered to match the distributor's requirement of 1000 kg to improve fulfillment score."
+	   },
+	   "potential_improvement": 70.8
+	 },
+	 "B005": {
+	   "pillar_scores": {
+		 "crop_fulfillment": 80,
+		 "shipping_availability": 0,
+		 "proximity": 50,
+		  "closed_bids": 80,
+		  "reviews": 70
+	   },
+	   "total_score": 43.2,
+	   "improvement_suggestions": {
+		 "shipping_availability": "Consider providing shipping services to improve customer experience and score."
+	   },
+	   "potential_improvement": 63.2
+	 },
+	 "B006": {
+	   "pillar_scores": {
+		 "crop_fulfillment": 80,
+		 "shipping_availability": 100,
+		  "proximity": 70,
+		  "closed_bids": 50,
+		  "reviews": 90
+	   },
+	   "total_score": 64.8,
+	   "improvement_suggestions": {
+		 "closed_bids": "Participate in more bids to build experience and enhance your reliability score."
+	   },
+	   "potential_improvement": 71.8
+	 }
+   },
+ "insights": [
+	 {
+	   "bidder_id": "B004",
+	   "suggestion": "To improve your chances of securing the contract, consider increasing the quantity of potatoes offered to match the distributor's requirement of 1000 kg. This will fulfill the requirement fully and enhance your bid's competitiveness."
+	 },
+	 {
+	   "bidder_id": "B005",
+	   "suggestion": "Adding shipping services could significantly enhance your bid's attractiveness. Offering shipping can resolve logistical issues and improve your customer satisfaction, making your bid more competitive in future contracts."
+	 },
+	 {
+	   "bidder_id": "B006",
+	   "suggestion": "Participating in more bids can improve your reliability score and attract more distributors. With your high ratings and fulfillment of all requirements, increasing your experience will strengthen your bid's position."
+	 }
+   ]
+ }
