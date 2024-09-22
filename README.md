@@ -6,16 +6,17 @@
 - Shiv Vignesh Murthy - MS, Artificial Intelligence @ RIT
 
 
-Submission for IBM TechXchange Pre-Conference watsonx Hackathon
+Submission for IBM TechXchange Pre-Conference Watsonx Hackathon
 
+## Links
 ### PowerPoint Presentation
 [Download the Presentation](https://example.com/path/to/presentation.pptx)
 
 ### YouTube Video
 [![Watch the Video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-### GitHub Repository
-[Check out the GitHub Repository](https://github.com/ibm-granite/granite-tsfm/tree/main/tsfm_public)
-
-
-##> Case 1: Tender Bid evaluation location: "prompts/1.txt"
+## Content
+- Jupyter Notebook with time series inference [🔗]()
+- Data file [🔗]()
+- Case 1: Tender Bid evaluation via Gen AI [🔗]()
+- Case 2: Explaining Tender results via Gen AI[🔗]()
