@@ -1,12 +1,15 @@
 # Team Name: The-Binary-Brains
 
+### Solution Overview
+![Alt text](https://raw.githubusercontent.com/Sarthakaushal/The-Binary-Brains/main/Supply_Chain_Optimization_Model.svg)
+
+
 ### Team:
 - Ashutosh Kumar - MS, Artificial Intelligence @ RIT
 - Sarthak Kaushal - MS, Artificial Intelligence @ RIT
 - Shiv Vignesh Murthy - MS, Artificial Intelligence @ RIT
 
-
-Submission for IBM TechXchange Pre-Conference Watsonx Hackathon
+Submission for IBM TechXchange Pre-Conference WatsonX Hackathon
 
 ## Links
 ### PowerPoint Presentation
@@ -17,6 +20,9 @@ Submission for IBM TechXchange Pre-Conference Watsonx Hackathon
 
 ## Content
 - Jupyter Notebook with time series inference [🔗](./granite-tsfm.ipynb)
-- Data file [🔗](./bid_analysis.csv)
-- Case 1: Tender Bid evaluation via Gen AI [🔗](./Tender%20Results.md)
+- OR-based Supply Chain Optimization Model [🔗](./supply-chain-optimization-model.md)
+- Dataset File [🔗](./bid_analysis.csv)
+- Case 1: Tender's Bid evaluation via Gen AI [🔗](./Tender%20Results.md)
 - Case 2: Explaining Tender results via Gen AI[🔗](./Bid%20success%20Analysis%20and%20Insight.md)
+
+  
