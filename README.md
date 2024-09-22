@@ -1,7 +1,7 @@
 # Team Name: The-Binary-Brains
 
 ## Important Links
-- Jupyter Notebook with time series inference [🔗](./granite-tsfm.ipynb)
+- Demand Prediction using IBM's Granite Time-Series Model(Jupyter Notebook) [🔗](./granite-tsfm.ipynb)
 - OR-based Supply Chain Optimization Model [🔗](./supply-chain-optimization-model.md)
 - Dataset File [🔗](./bid_analysis.csv)
 - Case 1: Tender's Bid evaluation via Gen AI [🔗](./Tender%20Results.md)
