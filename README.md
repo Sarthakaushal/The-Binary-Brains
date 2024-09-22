@@ -3,8 +3,17 @@
 ### Solution Overview
 ![Alt text](https://raw.githubusercontent.com/Sarthakaushal/The-Binary-Brains/main/Supply_Chain_Optimization_Model.svg)
 
+#### OR-based Supply Chain Optimization Model
+![Alt text](https://raw.githubusercontent.com/Sarthakaushal/The-Binary-Brains/main/OR.svg)
 
-### Team:
+#### Distributor's Portal
+![Alt text](https://raw.githubusercontent.com/Sarthakaushal/The-Binary-Brains/main/distributors.svg)
+
+#### Producer's Portal
+![Alt text](https://raw.githubusercontent.com/Sarthakaushal/The-Binary-Brains/main/producers.svg)
+
+
+### Team Members:
 - Ashutosh Kumar - MS, Artificial Intelligence @ RIT
 - Sarthak Kaushal - MS, Artificial Intelligence @ RIT
 - Shiv Vignesh Murthy - MS, Artificial Intelligence @ RIT
