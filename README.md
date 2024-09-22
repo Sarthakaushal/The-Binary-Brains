@@ -7,10 +7,10 @@
 ![Alt text](https://raw.githubusercontent.com/Sarthakaushal/The-Binary-Brains/main/OR.svg)
 
 #### Distributor's Portal
-![Alt text](https://raw.githubusercontent.com/Sarthakaushal/The-Binary-Brains/main/distributors.svg)
+![Alt text](https://raw.githubusercontent.com/Sarthakaushal/The-Binary-Brains/main/distributor.svg)
 
 #### Producer's Portal
-![Alt text](https://raw.githubusercontent.com/Sarthakaushal/The-Binary-Brains/main/producers.svg)
+![Alt text](https://raw.githubusercontent.com/Sarthakaushal/The-Binary-Brains/main/producer.svg)
 
 
 ### Team Members:
@@ -22,7 +22,7 @@ Submission for IBM TechXchange Pre-Conference WatsonX Hackathon
 
 ## Links
 ### PowerPoint Presentation
-[Download the Presentation](./IBM%20TechXChange%20Hackathon.pdf)
+[Click here to download the slide deck!](./IBM%20TechXChange%20Hackathon.pdf)
 
 ### YouTube Video
 [![Watch the Video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
