@@ -16,7 +16,7 @@ Submission for IBM TechXchange Pre-Conference Watsonx Hackathon
 [![Watch the Video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ## Content
-- Jupyter Notebook with time series inference [🔗]()
-- Data file [🔗]()
-- Case 1: Tender Bid evaluation via Gen AI [🔗](./Tender\ Results.md)
-- Case 2: Explaining Tender results via Gen AI[🔗](./Bid\ success\ Analysis and\ insight.md)
+- Jupyter Notebook with time series inference [🔗](./granite-tsfm.ipynb)
+- Data file [🔗](./bid_analysis.csv)
+- Case 1: Tender Bid evaluation via Gen AI [🔗](./Tender%20Results.md)
+- Case 2: Explaining Tender results via Gen AI[🔗](./Bid%20success%20Analysis%20and%20insight.md)
